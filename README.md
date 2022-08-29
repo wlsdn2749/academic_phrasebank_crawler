@@ -1,5 +1,7 @@
 # WebCrawler
 
-https://www.phrasebank.manchester.ac.uk/describing-methods/
+https://www.phrasebank.manchester.ac.uk
 
 to .JSON
+
+
